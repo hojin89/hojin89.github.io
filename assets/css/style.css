@@ -348,12 +348,16 @@ section {
 .about .content ul li {
   /*margin-bottom: 20px;*/
   margin-bottom: 0px;
-  /*display: flex;*/
-  /*align-items: center;*/
+  display: flex;
+  align-items: center;
 }
 
 .about .content ul strong {
   /*margin-right: 10px;*/
+  margin-left: 20px;
+}
+
+.about .content ul span {
   margin-left: 20px;
 }
 
