@@ -346,7 +346,8 @@ section {
 }
 
 .about .content ul li {
-  margin-bottom: 20px;
+  /*margin-bottom: 20px;*/
+  margin-bottom: 0px;
   display: flex;
   align-items: center;
 }
